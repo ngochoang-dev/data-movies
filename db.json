@@ -1,0 +1,1132 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Phim mới"
+    },
+    {
+      "id": 2,
+      "title": "Thể loại",
+      "sub_item": [
+        {
+          "id": 1,
+          "title": "Âm nhạc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cổ trang",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Hành Động",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Khoa học",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 5,
+          "title": "TVB",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Thể thao",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Võ thuật-Kiếm hiệp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Anime",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Đam mỹ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Hình sự",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Kinh dị",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 12,
+          "title": "Siêu nhiên",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Trailer",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Xuyên không",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 15,
+          "title": "Bí ẩn",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Gay cấn",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Hoạt hình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Lịch sử",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 19,
+          "title": "Tài liệu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Truyền hình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 21,
+          "title": "Chiến tranh",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Gia đình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 23,
+          "title": "Học đường",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 24,
+          "title": "Phiêu lưu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 25,
+          "title": "Tâm lý - Tình cảm",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 26,
+          "title": "TV Show",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 27,
+          "title": "Chính kịch",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 28,
+          "title": "Hài hước",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 29,
+          "title": "Hồi hộp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 30,
+          "title": "Phim 18",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 31,
+          "title": "Thần thoại",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 32,
+          "title": "Viễn tưởng",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Quốc gia",
+      "sub_item": [
+        {
+          "id": 1,
+          "title": "Ấn độ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Đài loan",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Khác",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Nhật bản",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Trung quốc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Anh",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Đức",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Khác",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Pháp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Úc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Canada",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 12,
+          "title": "Hàn quốc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Mỹ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Tây ban nha",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 15,
+          "title": "Việt nam",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Châu âu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Hồng kông",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Nga",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 19,
+          "title": "Thái lan",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Ý",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Phim lẻ",
+      "sub_item": [
+        {
+          "id": 1,
+          "title": "Phim Âm nhạc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Phim chính kịch",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Phim Gia đình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Phim Hoạt hình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Phim kinh dị",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Phim TVB",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Phim Thần thoại",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Phim Anime",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Phim TV Show",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Phim Cổ trang",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Phim Hài hước",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 12,
+          "title": "Học đường",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Phim lịch sử",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Phim siêu nhiên",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 15,
+          "title": "Phim thể thao",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Viễn tưởng",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Phim bí ẩn",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Phim đam mỹ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 19,
+          "title": "Phim hành động",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Phim hồi hộp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 21,
+          "title": "Phim Phiêu lưu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Phim Tài liệu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 23,
+          "title": "Phim trailer",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 24,
+          "title": "Võ thuật-Kiếm hiệp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 25,
+          "title": "Phim chiến tranh",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 26,
+          "title": "Phim gây cấn",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 27,
+          "title": "Phim Hình sự",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 28,
+          "title": "Phim Khoa học",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 29,
+          "title": "Phim 18",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 30,
+          "title": "Tâm lý - Tình cảm",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 31,
+          "title": "Phim truyền hình",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 32,
+          "title": "Phim Xuyên không",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Phim bộ",
+      "sub_item": [
+        {
+          "id": 1,
+          "title": "Phim bộ Ấn độ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Phim bộ Châu âu",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Phim bộ Hàn quốc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Phim bộ Khác",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Phim bộ Nhật bản",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Phim bộ Thái lan",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Phim bộ Việt nam",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Phim bộ Anh",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Phim bộ Đài loan",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Phim bộ Hồng kông",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Phim bộ Mỹ",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 12,
+          "title": "Phim bộ úc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Phim bộ Pháp",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Phim bộ Trung quốc",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 15,
+          "title": "Phim bộ Ý",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Phim bộ canada",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Phim bộ Đức",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Phim bộ Khác",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 19,
+          "title": "Phim bộ Nga",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Phim bộ Tây ban nha",
+          "link": "https://assets.materialup.com/uploads/480d36a3-b732-494e-b92a-42c82e69a653/preview.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Phim đề cử"
+    },
+    {
+      "id": 7,
+      "title": "Phim chiếu rạp"
+    },
+    {
+      "id": 8,
+      "title": "Album phim"
+    }
+  ],
+  "video": [
+    {
+      "id": 1,
+      "name": "ANH HÙNG XẠ ĐIÊU: CỬU ÂM BẠCH CỐT TRẢO",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "The Legend of the Condor Heroes: The Cadaverous Claws (2021‏)",
+      "poster": "./data/poster/the-legend-of-the-condor-heroes-the-cadaverous-claws1623312739.png",
+      "national": "Trung Quốc",
+      "time": 110,
+      "views": "1010000",
+      "actor": [
+        "Nghiêm Khoan",
+        "Uông Tiểu Mẫn",
+        "Hà Sưởng Hy",
+        "Nguyễn Cự",
+        "Hoàng Hi Ngạn",
+        "Canh Đăng"
+      ],
+      "status": "HD VietSub",
+      "type": [
+        "phim cổ trang",
+        "phim bộ trung quốc",
+        "Võ Thuật - Kiếm Hiệp",
+        "Tâm Lý - Tình Cảm",
+        "Cổ Trang"
+      ],
+      "description": "Thiếu nữ Mai Nhược Hoa lưu lạc khắp nơi được Hoàng Dược Sư thu nhận làm đồ đề và đổi tên thành Mai Siêu Phong. Từ đó, cô được Hoàng Dược Sư truyền dạy võ công và lớn lên cùng các sư huynh trên đảo Đào Hoa. Tuy nhiên, Hoàng Dược Sư phát hiện tình cảm của Mai Siêu Phong đối với mình đã vượt qua tình thầy trò, vì vậy mà ông quyết định tạm rời xa Đào Hoa Đảo.Hai năm sau, Hoàng Dược Sư cùng thê tử Phùng Hằng và nửa bộ Cửu Âm Chân Kinh trở về đảo"
+    },
+    {
+      "id": 2,
+      "name": "KẺ PHẢN NGHỊCH",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "The Rebel (2021‏)",
+      "poster": "./data/poster/the-rebel1623310402.jpg",
+      "national": "Trung Quốc",
+      "time": 110,
+      "views": "200000",
+      "status": "Tập 8 VIETSUB",
+      "actor": [
+        "Chu Nhất Long",
+        "Đồng Dao"
+      ],
+      "type": [
+        "Chiến Tranh",
+        "phim bộ trung quốc",
+        "Tâm Lý - Tình Cảm"
+      ],
+      "description": "Kẻ Phản Nghịch kể về năm 1936, học viên lớp đào tạo cán bộ Hội Phục Hưng Lâm Nam Sênh bị đưa đến Thượng Hải tham gia hoạt động bắt giữ các thành viên thuộc Đảng bí mật. Trong quá trình thực hiện, Lâm Nam Sênh bị tinh thần hy sinh cũng như sứ mệnh của những người Đảng Cộng sản làm cho dao động. Lâm Nam Sênh dũng cảm quyết đoán, nhiều lần lập công trong quá trình kháng chiến chống Nhật. Nhiều lần đứng về phía Đảng Cộng sản, lợi dụng thân phận đặc biệt của mình trong quân đội giúp đỡ vô cùng lớn cho Đảng bí mật. Sau khí kháng chiến thắng lợi, Lâm Nam Sênh trở thành một Đảng viên chân chính, đồng thời vào thời khắc quyết định giải phóng, đã cống hiến rất nhiều cho đất nước và Đảng Cộng sản."
+    },
+    {
+      "id": 3,
+      "name": "STAR WARS: JEDI CUỐI CÙNG",
+      "title": [
+        "phim đề cử",
+        "phim mới",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "Star Wars: The Last Jedi (2017)",
+      "poster": "./data/poster/star-wars-the-last-jedi.jpg",
+      "national": "Mỹ",
+      "time": 110,
+      "views": "300000",
+      "status": "HD VietSub",
+      "actor": [
+        "Tom Hardy",
+        "Gwendoline Christie",
+        "Daisy Ridley",
+        "Laura Dern",
+        "Oscar Isaac",
+        "Benicio Del Toro",
+        "Domhnall Gleeson",
+        "Adam Driver",
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Billie Lourd",
+        "Andy Serkis",
+        "Lupita Nyong'o",
+        "Kelly Marie Tran",
+        "Warwick Davis"
+      ],
+      "type": [
+        "Hành Động",
+        "Viễn Tưởng",
+        "Phiêu Lưu"
+      ],
+      "description": "Having taken her first steps into a larger world in Star Wars: Than Luc Thuc Tinh (2015), Rey continues her epic journey with Finn, Poe and Luke Skywalker in the next chapter of the saga."
+    },
+    {
+      "id": 4,
+      "name": "BẢN NĂNG HOANG DẠI",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "Voyagers (2021)",
+      "poster": "./data/poster/voyagers1620311197.jpg",
+      "national": "Mỹ",
+      "time": 118,
+      "views": "400000",
+      "status": "HD VietSub",
+      "actor": [
+        "Colin Farrell",
+        "Tye Sheridan",
+        "Lily-Rose"
+      ],
+      "type": [
+        "Viễn Tưởng",
+        "Phiêu Lưu",
+        "Hình Sự"
+      ],
+      "description": "Một nhóm thanh thiếu niên bắt đầu một chuyến hành trình khai phá sự sống ở một hành tinh xa xôi khác. Tuy nhiên, họ phát hiện ra bí mật được che giấu đằng sau nhiệm vụ cao cả này, tất cả bắt đầu kháng cự lại việc huấn luyện và để bản năng nguyên thuỷ lấn chiếm cảm xúc. Khi vận mệnh của cả phi đoàn rơi vào hỗn loạn, họ bị chôn vùi trong sợ hãi, ham muốn và cơn khao khát quyền lực."
+    },
+    {
+      "id": 5,
+      "name": "TRIỆU HỒI SƯ: MẶT TRĂNG VÀ TRÁI ĐẤT",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "Rewrite: Moon and Terra (2017)",
+      "poster": "./data/poster/rewrite-moon-and-terra.jpg",
+      "national": "Nhật Bản",
+      "time": 25,
+      "views": "",
+      "status": "Full HD",
+      "actor": [],
+      "type": [
+        "Hành Động",
+        "Tâm Lý - Tình Cảm",
+        "Hoạt Hình",
+        "Hài Hước"
+      ],
+      "description": "Mùa thứ hai của Rewrite series."
+    },
+    {
+      "id": 6,
+      "name": "KÝ SỰ HOÀNG KIM",
+      "title": [
+        "phim đề cử",
+        "phim mới",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "Chain Chronicle: The Light of Haecceitas (2017)",
+      "poster": "./data/poster/chain-chronicle-the-light-of-haecceitas.jpg",
+      "national": "Nhật Bản",
+      "time": 25,
+      "views": "",
+      "status": "Full HD",
+      "actor": [],
+      "type": [
+        "Hành Động",
+        "Hoạt Hình",
+        "Phiêu Lưu"
+      ],
+      "description": "Chuyển thể từ game cùng tên Chain Chronicle.thế giới trung cổ Yggdra màu mỡ, định cư bởi con người và chung sống cùng những giống loài hiền hòa. Lãnh đạo bởi Holy King - Thánh Vương, Yggdra chứng kiến một thời kỳ thanh bình và vương thịnh dài lâu. Nhưng một ngày không xa, thảm cảnh đe dọa nhấn chìm thánh địa khi Black King triệu gọi đạo dị vật bủa lấy Yggdra.Đáp lại, Thánh Vương đứng lên thu nạp quân đội khắp xứ, chuẩn bị lực lượng cho ngày đại chiến. Nhưng ngay cả sự quả cảm cũng phải chào thua số phận, và vị vua anh minh ngày nào đã hy sinh trên chiến trường, mở đầu cho sự sụp đổ của Thánh Đô và đe dọa an nguy toàn vương quốc."
+    },
+    {
+      "id": 7,
+      "name": "MỘT NGÀY NỌ KẺ HỦY DIỆT GÕ CỬA NHÀ TÔI",
+      "title": [
+        "phim đề cử",
+        "phim mới"
+      ],
+      "sub_name": "Doom At Your Service (2021‏)",
+      "poster": "./data/poster/doom-at-your-service1620794559.jpg",
+      "national": "Hàn Quốc",
+      "time": 70,
+      "views": "",
+      "status": "Full HD",
+      "actor": [],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Bí Ẩn"
+      ],
+      "description": "Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã làm việc rất chăm chỉ, mong cuộc sống của mình sẽ tốt lên qua từng ngày. Công việc biên tập tiểu thuyết web trong 6 năm dần đi vào ổn định, thì cô bị chẩn đoán mắc bệnh ung thư não. Cô đổ lỗi cho cuộc sống kém may mắn của mình và mong muốn mọi thứ biến mất, công bằng với mình hơn. Đúng lúc này, Myeol Mang xuất hiện, anh là sứ giả giữa con người và các vị thần. Anh có thể ban cho cô ấy những điều ước, giống như điều ước cuối cùng của Dong Kyung. Lúc này, cô chỉ cần 100 ngày để sống theo cách của mình, mạo hiểm với tất cả mọi thứ."
+    },
+    {
+      "id": 8,
+      "name": "BỐ GIÀ (BẢN ĐIỆN ẢNH)",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "Bố Già (2021‏)",
+      "poster": "./data/poster/bo-gia1623736357.jpg",
+      "national": "Việt Nam",
+      "time": 128,
+      "views": "",
+      "status": "Full HD",
+      "actor": [
+        "Trấn Thành",
+        "Tuấn Trần",
+        "Lê Giang",
+        "Ngân Chi",
+        "NSND Ngọc Giàu",
+        "Lê Giang"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Hài Hước",
+        "Gia Đình",
+        "Trailer"
+      ],
+      "description": "Câu chuyện gia đình của Ba Sang đã làm khuynh đảo phòng vé và trở thành bộ phim có doanh thu cao nhất Việt Nam. Phim xoay quanh cha con Ba Sang - Quắn với bao khác biệt suy nghĩ giữa các thế hệ."
+    },
+    {
+      "id": 9,
+      "name": "CHỜ MÙA XUÂN XANH",
+      "title": [
+        "phim đề cử",
+        "phim chiếu rạp"
+      ],
+      "sub_name": "At A Distance (2021‏)",
+      "poster": "./data/poster/at-a-distance1623692454.jpg",
+      "national": "Hàn Quốc",
+      "time": 60,
+      "views": "",
+      "status": "Full HD",
+      "actor": [
+        "Park Ji Hoon",
+        "Kwon Eun Bin",
+        "Bae In Hyuk",
+        "Kang Min Ah"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm"
+      ],
+      "description": "Chờ Mùa Xuân Xanh bộ phim dựa trên webtoon cùng tên với câu chuyện của những người bạn trẻ bước vào ngưỡng tuổi đôi mươi đang phấn đấu cho cuộc sống của chính bản thân. Bộ phim mô tả những lo lắng và xung đột thực tế xoay quanh cuộc sống cậu sinh viên đại học Yeo Jun. Mặc dù Yeo Jun có vẻ ngoài hấp dẫn và xuất thân từ gia đình giàu có, nhìn bên ngoài mọi người sẽ đầy ngưỡng mộ; nhưng cậu ấy lại mang trong mình nhiều nỗi niềm. Đúng như tên tiêu đề bộ phim nếu như nhìn từ xa thì đó là một mùa xuân xanh, câu chuyện về cuộc đời nếu nhìn từ xa thì đó mà một màu hồng và khi nhìn lại gần thì lại là một gang màu tối. Tuổi đôi mươi chính là thời điểm mà con người nên trải qua thời kỳ tươi đẹp nhưng cũng cho thấy sự đơn độc để tồn tại trong cuộc sống này. Từ đó nhắc nhở mỗi ta phải sống một cuộc đời xuân xanh sao cho thật ý nghĩa trong cuộc đời để không phải hối tiếc."
+    },
+    {
+      "id": 10,
+      "name": "KITTY LOVE: MÈO CƯNG NHÀ MÌNH",
+      "title": [
+        "phim đề cử",
+        "phim mới"
+      ],
+      "sub_name": "Kitty Love: A Homage To Cats (2021)",
+      "poster": "./data/poster/kitty-love-a-homage-to-cats1623715077.jpg",
+      "national": "Mỹ",
+      "time": 60,
+      "views": "",
+      "status": "HD VietSub",
+      "actor": [],
+      "type": [
+        "Hài Hước",
+        "Viễn Tưởng"
+      ],
+      "description": "Chú mèo nổi tiếng Abatutu mang đến màn tôn vinh loài mèo đầy hấp dẫn với hàng loạt khoảnh khắc đẹp và vui nhộn nhất của chúng qua một bộ sưu tập video gia đình."
+    },
+    {
+      "id": 11,
+      "name": "BẠN CÙNG PHÒNG CỦA TÔI LÀ GUMIHO",
+      "title": [
+        "phim đề cử",
+        "phim mới"
+      ],
+      "sub_name": "My Roommate Is A Gumiho (2021‏)",
+      "poster": "./data/poster/voyagers1620311197.jpg",
+      "national": "Hàn Quốc",
+      "time": 60,
+      "views": "",
+      "status": "Full HD",
+      "actor": [
+        "Jang Ki Yong",
+        "Lee Hye Ri",
+        "Kang Han Na",
+        "Kim Do Wan",
+        "Bae In Hyuk",
+        "Park Kyung Hye"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Hài Hước",
+        "Viễn Tưởng"
+      ],
+      "description": "Chuyện phim Bạn Cùng Phòng Của Tôi Là Gumiho bắt đầu từ một giáo sư đẹp trai và thông Shin Woo Yeo (Jang Ki Yong thủ vai), nhưng đằng sau vỏ bọc đó là một con cái chín đuôi 999 tuổi. Để trở thành một con người, anh phải thu thập năng lượng của con người trong một quả cầu. Trong khi đó Lee Dam (Lee Hyeri đóng), một nữ sinh viên đại học vô tình nuốt phải quả cầu của cửu vĩ hồ trong một lần say xỉn khi cô ngủ gục trên đầu một chiếc xe ô tô đắt tiền của chính Shin Woo Yeo. Cả hai rơi vào thảm kịch dở khóc dở cười và khiến trở họ phải về chung một nhà với lý do không thể nào từ chối. Cụ thể, Lee Dam sẽ sống không quá 1 năm kể từ khi nuốt quả cầu và sau đó quả cầu sẽ võ bên trong người cô. Điều này đồng thời khiến cho Shin Woo Yeo mất đi cơ hội trở thành một con người sau 999 năm chờ đợi. Anh đã giải thích cho Lee Dam về tình trạng khó khăn của họ và gợi ý rằng họ nên sống cùng nhau cho tới khi tìm ra giải pháp để quay về vị trí ban đầu. Đó cũng chính là lý do tựa phim được đặt Bạn Cùng Phòng Của Tôi Là Gumiho, trong khi Lee Dam chưa từng có bạn trai trong đời và buộc phải sống cùng giáo sư trường mình theo học cũng là một cửu vĩ hồ. Liệu kết cục của cả hai sẽ ra sao? Chuyện tình lãng mạn giữa hai người họ bắt đầu khi nào? Hãy cùng theo dõi bộ phim My Roommate is a Gumiho 2021 nhé!"
+    },
+    {
+      "id": 12,
+      "name": "QUÁ NHANH QUÁ NGUY HIỂM 9",
+      "title": [
+        "phim đề cử",
+        "phim mới"
+      ],
+      "sub_name": "Fast & Furious 9 (2021‏)",
+      "poster": "./data/poster/fast-furious-91622477760.jpg",
+      "national": "Anh, Mỹ",
+      "time": 145,
+      "views": "",
+      "status": "CAM",
+      "actor": [
+        "Vin Diesel",
+        "Tyrese Gibson",
+        "Cody Rain Murray",
+        "Krzysztof Mardula",
+        "John Cena"
+      ],
+      "type": [
+        "Hành Động",
+        "Viễn Tưởng",
+        "Phiêu Lưu",
+        "Khoa Học",
+        "Chiến Tranh"
+      ],
+      "description": "Dominic Toretto đang có một cuộc sống yên tĩnh ngoài lưới điện với Letty và con trai của anh ta, cậu bé Brian, nhưng họ biết rằng nguy hiểm luôn rình rập ngay phía chân trời yên bình của họ. Lần này, mối đe dọa đó sẽ buộc Dom phải đối mặt với tội lỗi trong quá khứ của mình nếu anh ấy định cứu những người anh ấy yêu thương nhất. Phi hành đoàn của anh ấy tham gia cùng nhau để ngăn chặn một âm mưu kinh hoàng thế giới được dẫn dắt bởi sát thủ lành nghề nhất và người lái xe hiệu suất cao nhất mà họ từng gặp: một người đàn ông cũng là người anh trai bị bỏ rơi của Dom, Jakob."
+    },
+    {
+      "id": 13,
+      "name": "SONG THẾ SỦNG PHI 3",
+      "title": [
+        "phim lẻ"
+      ],
+      "sub_name": "The Eternal Love 3 (2021‏)",
+      "poster": "./data/poster/song-the-sung-phi-3-2021_1622040384.jpg",
+      "national": "Trung Quốc",
+      "time": 45,
+      "views": "90000",
+      "status": "Full 30/30 VIETSUB",
+      "actor": [
+        "Hình Chiêu Lâm",
+        "Lương Khiết",
+        "Tôn Nghệ Ninh",
+        "Vương Hạo Ca",
+        "Hồ Xuân Dũng",
+        "Phương Dật Luân",
+        "Chu Tử Hinh",
+        "Trương Thiên Ái"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Hài Hước",
+        "Cổ Trang"
+      ],
+      "description": "Những bộ anime liên quan đến đề tài thể thao học đường luôn là chủ đề được các đạo diễn phim anime Nhật khai thác một cách rất tốt, và phim Hoshiai no Sora cũng không phải là ngoại lệ. Nội dung trong phim Hoshiai no Sora là câu chuyện xoay quanh những chàng trai đầy lòng nhiệt huyết, họ đều là những người đam mê thể thao, môn thể thao mà họ theo đuổi chính là Tennis, tuy nhiên đây cũng là bộ môn đang đứng trước nguy cơ bị trường giải thể. Để có thể duy trì được đội Tennis của trường, Touma Shinjou người đã khơi nguồn và đứng đầu trong việc kêu gọi để đội bóng được phát triển mạnh mẽ hơn, chính vì thế mà anh đã mời Maki Katsuragi tham gia vào đội bóng của trường, Maki được biết đến là một trong những thần đồng trong bộ môn thể thao này, tuy nhiên yêu cầu của Maki có vẻ khá khó khăn khi mà anh muốn mình được trả tiền cho việc anh cống hiến tài năng của mình"
+    },
+    {
+      "id": 14,
+      "name": "VỊ KHÁCH BÍ ẨN",
+      "title": [
+        "phim đề cử",
+        "phim lẻ"
+      ],
+      "sub_name": "Home Sweet Home (2021)",
+      "poster": "./data/poster/home-sweet-home1623649220.jpg",
+      "national": "Trung Quốc",
+      "time": 109,
+      "views": "100",
+      "status": "HD VietSub",
+      "actor": [
+        "Quách Phú Thành",
+        "Đoàn Dịch Hồng",
+        "Trương Tử Phong",
+        "Hứa Vĩ Ninh",
+        "Vinh Tử Sam"
+      ],
+      "type": [
+        "Hành Động",
+        "Kinh Dị"
+      ],
+      "description": "Một câu chuyện kể về một gia đình bốn người đang sống yên ấm. Khi một vị khách bí ẩn bắt đầu cư trú trong tầng hầm của họ, cuộc sống của họ bị đảo lộn khi những sự kiện kỳ lạ bắt đầu xảy ra"
+    },
+    {
+      "id": 15,
+      "name": "LƯỠI CƯA (PHẦN 9)",
+      "title": [
+        "phim mới",
+        "phim lẻ"
+      ],
+      "sub_name": "Spiral: From The Book Of Saw (2021)",
+      "poster": "./data/poster/spiral-from-the-book-of-saw1622884404.jpg",
+      "national": "Mỹ",
+      "time": 93,
+      "views": "2000",
+      "status": "HD VietSub",
+      "actor": [
+        "Chris Rock",
+        "Samuel L. Jackson",
+        "Max Minghella",
+        "Marisol Nichols",
+        "Morgan David Jones"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Kinh Dị"
+      ],
+      "description": "Saw 9 có nội dung đáng sợ và đen tối, được pha một chút hài hước, qua trailer, chúng ta sẽ nảy ra câu hỏi: Ai đứng sau những vụ giết người này, và có vẻ thám tử Ezekiel “Zeke” Banks do Chris Rock thủ vai sắp phát hiện ra sự thật khi khán giả thấy anh bị xích lại ở cuối đoạn trailer."
+    },
+    {
+      "id": 16,
+      "name": "CƯỚP BIỂN VÙNG CARIBBE 5: SALAZAR BÁO THÙ",
+      "title": [
+        "phim mới",
+        "phim lẻ"
+      ],
+      "sub_name": "Pirates of the Caribbean 5: Dead Men Tell No Tales (2017)",
+      "poster": "./data/poster/pirates-of-the-caribbean-5-dead-men-tell-no-tales.jpg",
+      "national": " Mỹ",
+      "time": 129,
+      "views": "",
+      "status": "HD VietSub",
+      "actor": [
+        "Johnny Depp",
+        "Javier Bardem",
+        "Geoffrey Rush",
+        "Brenton Thwaites",
+        "Kaya Scodelario",
+        "Kevin Mcnally",
+        "Golshifteh Farahani",
+        "David Wenham",
+        "Stephen Graham",
+        "Angus Barnett",
+        "Martin Klebba",
+        "Adam Brown",
+        "Giles New",
+        "Orlando Bloom",
+        "Keira Knightley",
+        "Mahesh Jadu",
+        "Jessica"
+      ],
+      "type": [
+        "Hành Động",
+        "Viễn Tưởng",
+        "Phiêu Lưu"
+      ],
+      "description": "Dead Men Tell No Tales là bộ phim thứ 5 của loạt phim Cướp Biển Vùng Caribbean do nam diễn viên Johnny Depp thủ vai chính, thuyền trưởng Jack Sparrow. Trong phần 5, hồn ma của thuyền trưởng Salazar trở về và dự định tiêu diệt mọi cướp biển dám đi lại trên biển, kể cả Jack Sparrow. Để sống sót, Jack Sparrow lên đường đi tìm cây đinh ba huyền thoại của thần biển Poseidon (trong thần thoại Hy Lạp, Poseidon là anh em với thần Zeus, Hades và Hera. Poseidon tương đương với thần Neptune trong thần thoại La Mã), một báu vật có khả năng điều khiển biển theo ý muốn của người sử dụng."
+    },
+    {
+      "id": 17,
+      "name": "NHA HOÀN NÀY KHÔNG DÙNG ĐƯỢC",
+      "title": [
+        "phim lẻ"
+      ],
+      "sub_name": "Maid Escort (2021‏)",
+      "poster": "./data/poster/maid-escort1622464680.jpg",
+      "national": "Trung Quốc",
+      "time": 35,
+      "views": "",
+      "status": "Tập 18 VIETSUB",
+      "actor": [
+        "Trịnh Tưu Hoằng",
+        "Vương Nhuận Trạch",
+        "Thiệu Tinh Dĩnh",
+        "Lâm Phong Tùng",
+        "Hùng Duệ Hy",
+        "Tưởng Thắng Nam",
+        "Nhậm Dận Tùng",
+        "Mã Thiến Thiến",
+        "Hồ Hạo Phàm",
+        "Vương Đồng",
+        "Tô Tô"
+      ],
+      "type": [
+        "Tâm Lý - Tình Cảm",
+        "Cổ Trang"
+      ],
+      "description": "Nha Hoàn Này Không Dùng Được kể về Thần Uy Tiêu Cục đại tiểu thư Nhạc Tử Duyên trong tình thế nguy hiểm đã nhận nhiệm vụ bảo vệ con gái út của Bạch gia là Bạch Ngân Nhược cho đến khi Bạch Ngân Nhược bình an xuất giá, vô tình cô biết được vị hôn phu của Bạch Ngân Nhược lại chính là Dương Tiêu. Vì muốn Dương Tiêu cưới Bạch Ngân Nhược mà Nhạc Tử Duyên đã bị Dương Tiêu ép buộc phải hợp tác với mình. Một lần nữa đưa Thần Uy Tiêu Cục dấn thân vào con đường giao thương Quy Việt nguy hiểm. Hai người kết hợp với một nhóm người nghĩa khí trên giang hồ để điều tra hung thủ thật sự đã giết hại cha mẹ mình năm đó, khôi phục lại con đường giao thương Quy Việt, tạo nên một câu chuyện huyền thoại đầy màu sắc và ngọt ngào."
+    },
+    {
+      "id": 18,
+      "name": "LEGO NINJAGO",
+      "title": [
+        "phim lẻ"
+      ],
+      "sub_name": "The Lego Ninjago Movie (2017)",
+      "poster": "./data/poster/the-lego-ninjago-movie.jpg",
+      "national": "Mỹ, Khác",
+      "time": null,
+      "views": "",
+      "status": "HD VietSub",
+      "actor": [
+        "Dave Franco",
+        "Olivia Munn",
+        "Justin Theroux",
+        "Thành Long",
+        "Michael Peña",
+        "Zach Woods",
+        "Kumail Nanjiani",
+        "Abbi Jacobson",
+        "Fred Armisen",
+        "Kaan Guldur"
+      ],
+      "type": [
+        "Hành Động",
+        "Hoạt Hình",
+        "Phiêu Lưu"
+      ],
+      "description": "Tác phẩm hoạt hình hài hước xoay quanh sáu ninja trẻ tuổi sống trên hòn đảo Ninjago. Ban đêm, họ là những chiến binh tài năng, tận dụng kỹ năng võ thuật để chiến đấu với các ác nhân và quái vật. Ban ngày, họ trở về với xuất thân là những cô cậu học trò tuổi teen và phải đối đầu với kẻ thù lớn nhất là trường học."
+    },
+    {
+      "id": 19,
+      "name": "ĐẠI CHIẾN HÀNH TINH KHỈ",
+      "title": [
+        "phim lẻ"
+      ],
+      "sub_name": "War for the Planet of the Apes (2017)",
+      "poster": "./data/poster/war-for-the-planet-of-the-apes.jpg",
+      "national": "Mỹ, Canada, Khác",
+      "time": 140,
+      "views": "",
+      "status": "HD VietSub",
+      "actor": [
+        "Andy Serkis",
+        "Woody Harrelson",
+        "Steve Zahn",
+        "Karin Konoval",
+        "Amiah Miller",
+        "Terry Notary",
+        "Ty Olsson",
+        "Michael Adamthwaite",
+        "Toby Kebbell",
+        "Gabriel Chavarria",
+        "Judy Greer",
+        "Sara Canning",
+        "Devyn Dalton",
+        "Aleks Paunovic",
+        "Alessandro Juliani",
+        "Max Lloyd-Jones",
+        "Chad Ro"
+      ],
+      "type": [
+        "Hành Động",
+        "Phiêu Lưu"
+      ],
+      "description": "War for Planet of the Apes, phần phim thứ 3 và cũng là cuối cùng của trilogy Planet of the Apes. Tiếp nối phần trước, sau khi quân đội biết sự tồn tại của xã hội loài khỉ dưới sự chỉ huy của Caesar, họ quyết định đến chiến đấu chống lại Caesar, nhóm lính được dẫn đầu bởi một vị tướng tàn bạo. Về phần vị vua khỉ của chúng ta, sau những mất mát của mình, anh ta dần trở nên đen tối hơn, có những suy nghĩ độc đoán hơn về con người và cách thống lĩnh của mình. Số phận của hai giống loài này phụ thuộc vào cuộc chiến cuối cùng này!"
+    },
+    {
+      "id": 20,
+      "name": "LIÊN MINH CÔNG LÝ BÓNG TỐI",
+      "title": [
+        "phim lẻ"
+      ],
+      "sub_name": "Justice League Dark (2017)",
+      "poster": "./data/poster/justice-league-dark.jpg",
+      "national": "Mỹ",
+      "time": 75,
+      "views": "",
+      "status": "HD VietSub",
+      "actor": [
+        "Matt Ryan",
+        "Camilla Luddington",
+        "Jason O'mara",
+        "Ray Chase",
+        "Enrico Colantoni",
+        "Roger Cross",
+        "Jeremy Davies",
+        "Rosario Dawson",
+        "Brian T. Delaney",
+        "Alfred Molina",
+        "Jerry O'connell",
+        "Colleen O'shaughnessey",
+        "Jeffrey Vincent Parise",
+        "Laura Post",
+        "Fred Tatas"
+      ],
+      "type": [
+        "Hành Động",
+        "Hoạt Hình",
+        "Viễn Tưởng"
+      ],
+      "description": "Justice League Bóng tối là những gì nó giống như cái tên. Đó là mặt trái của công lý. Một nhóm người hùng siêu nhiên người liên kết với nhau một cách lỏng lẻo để đưa vào nhằm chống lại các mối đe dọa huyền bí, các mối đe dọa siêu nhiên - mối đe dọa mà các Justice League thực tế có thể bất lực chống lại."
+    }
+  ]
+}
